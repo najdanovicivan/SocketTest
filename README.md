@@ -1,2 +1,3 @@
 # SocketTest
-Simple OSX app for websocket testing and debugging 
+Simple OSX app for websocket testing and debugging based on SRWebSocket
+
